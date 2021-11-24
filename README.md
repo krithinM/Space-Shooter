@@ -1,7 +1,7 @@
-SpaceShooter
+SpaceShooter2D
 ============
 
-This is my project for my second Java course at king fahd university of petroleum and minerals in Saudi Arabia.
+This is my project for my Java course at NMAM Institute of Technology.
 
 It's a simple Java 2D game.
 
